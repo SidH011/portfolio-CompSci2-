@@ -19,7 +19,9 @@ description: "Class of 2029"
 owner_name: Siddharth Hota
 github_username: SidH011 
 github_repo: "portfolio-CompSci2-" 
+repository: SidH011/portfolio-CompSci2-
 baseurl: "portfolio-CompSci2-" 
+url: "https://SidH011.github.io"
 future: true
 
 # Build settings
